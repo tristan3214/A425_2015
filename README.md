@@ -1,5 +1,5 @@
 ## Astronomy 425: Cosmology (Fall 2015)
-Class will be held Mondays and Wednesday in the Physics and Astronomy Auditorium (PAA A212) from 11.30am to 12.50pm. 
+Class will be held Mondays and Wednesday in the Physics and Astronomy Auditorium (PAB C341) from 11.30am to 12.50pm. 
 http://www.astro.washington.edu/users/ajc/teaching/a425
 
 ## Class and Office hours 
