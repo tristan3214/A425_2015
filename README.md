@@ -5,7 +5,7 @@ http://www.astro.washington.edu/users/ajc/teaching/a425
 ## Class and Office hours 
 - 
 - The grade will be broken down as:Mid term 25%, Final 50%, Homework 25%
-- Midterm will be on Wednesday Ocober 10th 2015
+- Midterm will be on Wednesday Ocober 28th 2015
 - Final will be Wednesday Dec 16th
 
 Office hours are on a drop in basis and by appointment. My office is in the Physics and Astronomy building (B355). If the door is open feel free to drop in, or send me an email to arrange a time.
